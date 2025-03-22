@@ -1,3 +1,6 @@
+from units import common_function
+
+
 def get_count():
     while True:
         try:
@@ -8,23 +11,18 @@ def get_count():
         except ValueError:
             print("Ошибка: введите целое число.")
 
-def get_number(prompt):
-    while True:
-        try:
-            return float(input(prompt))
-        except ValueError:
-            print("Ошибка: введите число.")
 
 def get_average(numbers, count):
     average = sum(numbers) / count  # Вычисляем среднее арифметическое
     return average # Возвращает значение, тогда как print выводит строку
+
 
 def main():
     count = get_count()
     numbers = []
 
     for i in range(1, count + 1):
-        num = get_number(f"Введите число {i}: ")
+        num = common_function.get_number(f"Введите число {i}: ")
         numbers.append(num)
 
     result = get_average(numbers, count)
