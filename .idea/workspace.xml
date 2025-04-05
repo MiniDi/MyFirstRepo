@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57ef4422-011c-42fe-92ca-fe6f31c5d1c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersice_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exersise_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/exercise_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonProject/main.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_14.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_14.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_15.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_15.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_15.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exersice_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exersice_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/exersice_12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.exercise_1.executor": "Run",
-    "Python.exercise_11.executor": "Run",
-    "Python.exercise_2.executor": "Run",
-    "Python.exercise_3.executor": "Run",
-    "Python.exercise_7.executor": "Run",
-    "Python.exercise_8.executor": "Run",
-    "Python.exersise_10.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "training",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/MyFirstRepo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.exercise_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exersise_10.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;training&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/MyFirstRepo&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.exercise_11">
     <configuration name="exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyFirstRepo" />
