@@ -2,10 +2,7 @@ def is_palindrome(text):
     # Удаляем пробелы и приводим к нижнему регистру
     cleaned_text = text.replace(" ", "").lower()
     # Сравниваем строку с её реверсированной копией
-    if cleaned_text == cleaned_text[::-1]:
-        print("Да, это палиндром!")
-    else:
-        print("Нет, это не палиндром.")
+    return cleaned_text == cleaned_text[::-1]
 
 
 def get_text():

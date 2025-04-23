@@ -14,7 +14,7 @@ def get_count():
 
 def get_average(numbers, count):
     average = sum(numbers) / count  # Вычисляем среднее арифметическое
-    return average # Возвращает значение, тогда как print выводит строку
+    return average>0 # Возвращает значение, тогда как print выводит строку
 
 
 def main():
