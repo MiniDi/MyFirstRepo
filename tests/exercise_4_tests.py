@@ -1,5 +1,4 @@
 import pytest
-
 from exercise_4 import get_average
 
 
